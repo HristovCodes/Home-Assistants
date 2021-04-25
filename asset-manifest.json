@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Home-Assistants/static/css/main.d183da31.chunk.css",
+    "main.js": "/Home-Assistants/static/js/main.cc811835.chunk.js",
+    "main.js.map": "/Home-Assistants/static/js/main.cc811835.chunk.js.map",
+    "runtime-main.js": "/Home-Assistants/static/js/runtime-main.ad5420e2.js",
+    "runtime-main.js.map": "/Home-Assistants/static/js/runtime-main.ad5420e2.js.map",
+    "static/css/2.679831fc.chunk.css": "/Home-Assistants/static/css/2.679831fc.chunk.css",
+    "static/js/2.7d713c37.chunk.js": "/Home-Assistants/static/js/2.7d713c37.chunk.js",
+    "static/js/2.7d713c37.chunk.js.map": "/Home-Assistants/static/js/2.7d713c37.chunk.js.map",
+    "static/js/3.be0bc836.chunk.js": "/Home-Assistants/static/js/3.be0bc836.chunk.js",
+    "static/js/3.be0bc836.chunk.js.map": "/Home-Assistants/static/js/3.be0bc836.chunk.js.map",
+    "index.html": "/Home-Assistants/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Home-Assistants/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.d183da31.chunk.css.map": "/Home-Assistants/static/css/main.d183da31.chunk.css.map",
+    "static/js/2.7d713c37.chunk.js.LICENSE.txt": "/Home-Assistants/static/js/2.7d713c37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5420e2.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.7d713c37.chunk.js",
+    "static/css/main.d183da31.chunk.css",
+    "static/js/main.cc811835.chunk.js"
+  ]
+}
