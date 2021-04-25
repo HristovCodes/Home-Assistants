@@ -1,0 +1,56 @@
+$bg-color: #283044;
+$text-color: #ffffff;
+$input-color: #78a1bb;
+$input-sec-color: #bfa89e;
+$input-text-color: #ebf5ee;
+
+.register {
+  background-color: darken($bg-color, $amount: 10);
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 5fr 5fr 1fr;
+  grid-template-rows: 1fr 7fr 1fr;
+  grid-template-areas:
+    ". . . . "
+    ". form form . "
+    ". . . . ";
+  .registerform {
+    width: 37vw;
+    background-color: $bg-color;
+    border-radius: 5px;
+    justify-self: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    grid-area: form;
+    h1 {
+      margin: 25px 0;
+      letter-spacing: 5px;
+    }
+    h2 {
+      margin: 25px 0;
+      font-weight: 400;
+    }
+    div {
+      width: 75%;
+      display: flex;
+      flex-direction: column;
+      input,
+      input::placeholder {
+        align-self: center;
+        width: 93%;
+        color: $text-color;
+      }
+      button {
+        align-self: center;
+      }
+      input,
+      button {
+        margin: 10px 0;
+      }
+    }
+  }
+}
